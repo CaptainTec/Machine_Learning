@@ -16,3 +16,4 @@
 
 
 啊啊啊啊<a href="http://www.baidu.com" target="_blank">树回归</a>
+[超链接文字](www.baidu.com){:target="_blank"}

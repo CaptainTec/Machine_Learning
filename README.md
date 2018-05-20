@@ -11,3 +11,8 @@
 |<a href="http://www.baidu.com" target="_blank">SVM</a>|KNN|
 |<a href="http://www.baidu.com" target="_blank">线性回归</a>|KNN|
 |<a href="http://www.baidu.com" target="_blank">树回归</a>|KNN|
+
+
+
+
+<a href="http://www.baidu.com" target="_blank">树回归</a>

@@ -4,10 +4,10 @@
 
 |算法详解|重难点|
 |:----:|:----:|
-|[KNN](www.baidu.con)|KNN|
-|[决策树](www.baidu.con)|KNN|
-|[贝叶斯](www.baidu.con)|KNN|
-|[逻辑回归](www.baidu.con)|KNN|
-|[SVM](www.baidu.con)|KNN|
-|[线性回归](www.baidu.con)|KNN|
-|[树回归](www.baidu.con)|KNN|
+|<a href="http://.baidu.com" target="_blank">KNN</a>|KNN|
+|<a href="http://.baidu.com" target="_blank">决策树</a>|KNN|
+|<a href="http://.baidu.com" target="_blank">贝叶斯</a>|KNN|
+|<a href="http://.baidu.com" target="_blank">逻辑回归</a>|KNN|
+|<a href="http://.baidu.com" target="_blank">SVM</a>|KNN|
+|<a href="http://.baidu.com" target="_blank">线性回归</a>|KNN|
+|<a href="http://.baidu.com" target="_blank">树回归</a>|KNN|

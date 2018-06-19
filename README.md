@@ -4,6 +4,7 @@
 
 |算法详解|重难点|
 |:----:|:----:|
+|<a href="http://www.baidu.com" target="_blank">KNN</a>|统计学习方法概论|
 |<a href="http://www.baidu.com" target="_blank">KNN</a>|KNN|
 |<a href="http://www.baidu.com" target="_blank">决策树</a>|决策树|
 |<a href="http://www.baidu.com" target="_blank">贝叶斯</a>|贝叶斯|

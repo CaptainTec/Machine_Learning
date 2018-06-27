@@ -4,7 +4,7 @@
 
 |算法详解|重难点|
 |:----:|:----:|
-|[特征工程](https://blog.csdn.net/m0_38024592/article/details/80836217)|数据和特征决定了机器学习的上限，而模型和算法只是逼近这个上限而已.  <br>目的是从特征集合中挑选一组最具统计意义的特征子集，从而达到降维的效果。|
+|[特征工程](https://blog.csdn.net/m0_38024592/article/details/80836217)|数据和特征决定了机器学习的上限，而模型和算法只是逼近这个上限而已。 <br>目的是从特征集合中挑选一组最具统计意义的特征子集，从而达到降维的效果。|
 |<a href="http://www.baidu.com" target="_blank">统计学习方法概论</a>|统计学习方法概论|
 |<a href="http://www.baidu.com" target="_blank">KNN</a>|KNN|
 |<a href="http://www.baidu.com" target="_blank">决策树</a>|决策树|

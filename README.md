@@ -13,3 +13,11 @@
 |<a href="http://www.baidu.com" target="_blank">SVM</a>|SVM|
 |<a href="http://www.baidu.com" target="_blank">线性回归</a>|线性回归|
 |<a href="http://www.baidu.com" target="_blank">树回归</a>|树回归|
+
+
+
+## Kaggle实战
+
+|Title|Algorithm|
+|:----:|:----:|
+|[Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)|[kNN](https://blog.csdn.net/m0_38024592/article/details/81677107)|
